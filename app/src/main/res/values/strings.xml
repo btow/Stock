@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stock</string>
+    <string name="icon">Icon</string>
+    <string name="сurrency">Валюта</string>
+    <string name="volume">Цена</string>
+    <string name="amount">Количество</string>
+    <string name="reset">Обновить</string>
+    <string name="devider">Devider</string>
+</resources>
