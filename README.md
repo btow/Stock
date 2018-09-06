@@ -2,6 +2,8 @@
 The application does the following:
 - launches "launch screen" which displays the 64x64 icon in the middle of the screen;
 
+![launch screen](https://github.com/btow/Stock/blob/master/app/src/main/res/img1.jpg)
+
 - automatically goes to the main screen, which shows a table - a list of currencies received by the link: http://phisix-api3.appspot.com/stocks.json;
 
 ![main screen](https://github.com/btow/Stock/blob/master/app/src/main/res/img2.jpg)
