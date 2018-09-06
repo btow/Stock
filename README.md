@@ -9,9 +9,9 @@ The application does the following:
 ![main screen](https://github.com/btow/Stock/blob/master/app/src/main/res/img2.jpg)
 
 - shows three columns of the table (cell height-50 dp):
-  - "Currency name" - JSON-field "name";
-  - "Price" - JSON-field "volume" (integer);
-  - "Quantity" - JSON-field "amount" (2 decimal places);
+  - "Название валюты" - JSON-field "name";
+  - "Цена" - JSON-field "volume" (integer);
+  - "Количество" - JSON-field "amount" (2 decimal places);
 
 ![shows three columns of the table](https://github.com/btow/Stock/blob/master/app/src/main/res/img3.jpg)
 
